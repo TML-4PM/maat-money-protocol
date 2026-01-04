@@ -1,0 +1,8 @@
+{
+  "name": "maat-money-protocol",
+  "version": "0.1.0",
+  "type": "module",
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}
